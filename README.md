@@ -9,7 +9,7 @@
 - `button` (button or a click element)
 ## Live Demo
 
-[Live Demo Link](https://theodin-recipes-assigment.netlify.app/)
+[Live Demo Link]()
 
 ### Development (Running locally)
 
